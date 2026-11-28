@@ -318,3 +318,4 @@ bcrypt
 pyinstaller
 ```
 # EasyGestPDV
+# EasyGestPDV
