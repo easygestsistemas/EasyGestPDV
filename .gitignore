@@ -1,0 +1,74 @@
+
+# ==============================
+# Ambiente virtual Python
+# ==============================
+venv/
+.venv/
+env/
+ENV/
+
+# ==============================
+# Variáveis de ambiente e segredos
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# Arquivos Python temporários
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# PyInstaller
+# ==============================
+build/
+dist/
+
+# Arquivos de especificação temporários
+*.manifest
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
+
+# ==============================
+# Banco de dados local
+# ==============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ==============================
+# Backups e exportações
+# ==============================
+backups/
+backup/
+*.bak
+*.dump
+
+# ==============================
+# Arquivos temporários
+# ==============================
+*.tmp
+*.temp
+*.swp
+*.swo
+~*
+
+# ==============================
+# IDEs e editores
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# Sistema operacional
+# ==============================
+.DS_Store
+Thumbs.db
+Desktop.ini
