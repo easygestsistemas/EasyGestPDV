@@ -319,3 +319,4 @@ pyinstaller
 ```
 # EasyGestPDV
 # EasyGestPDV
+# EasyGestPDV
